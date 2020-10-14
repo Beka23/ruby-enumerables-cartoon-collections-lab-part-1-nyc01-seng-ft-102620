@@ -17,4 +17,3 @@ def list_dwarves(array)
   array.each_with_index do |names, index.to_i|
     puts names
   end
-end
